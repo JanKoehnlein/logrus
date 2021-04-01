@@ -14,7 +14,7 @@ limited by the interface).
 I believe Logrus' biggest contribution is to have played a part in today's
 widespread use of structured logging in Golang. There doesn't seem to be a
 reason to do a major, breaking iteration into Logrus V2, since the fantastic Go
-community has built those independently. Many fantastic alternatives have sprung
+community has built those in  dependently. Many fantastic alternatives have sprung
 up. Logrus would look like those, had it been re-designed with what we know
 about structured logging in Go today. Check out, for example,
 [Zerolog][zerolog], [Zap][zap], and [Apex][apex].
